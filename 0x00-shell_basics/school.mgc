@@ -1,3 +1,3 @@
 #!/bin/bash
-school.mgc1=!:mime school
-school.mgc2=0 string SCHOOL school data file
+school.mgc=0 string SCHOOL school data file
+school.mgc=mime school
