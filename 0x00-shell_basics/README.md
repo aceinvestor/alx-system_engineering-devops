@@ -1,1 +1,1 @@
-A symbolic link
+script that creates the directories
