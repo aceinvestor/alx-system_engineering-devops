@@ -1,1 +1,1 @@
-shell script that creates a file named exactly \*\'Best School\'\*$\?\*\*\*\*\*:)
+script that writes into the file
