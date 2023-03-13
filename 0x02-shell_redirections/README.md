@@ -1,1 +1,1 @@
-lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
+command that finds all empty files and directories in the current directory and all sub-directories
